@@ -1,5 +1,4 @@
 # MGST_GNN
-The source codes for MGST_GNN: Air quality prediction based on spatiotemporal graph neural network of multi granularity
 
 Datasets：
 Jinan database (JN)：
